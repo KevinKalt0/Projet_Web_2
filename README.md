@@ -1,4 +1,4 @@
 # 👨🏼‍🤝‍👨🏼 Participants
-groupe 5 :
+Groupe 5 :
   - Dylan LERAY
   - Kevin KALTENIS
